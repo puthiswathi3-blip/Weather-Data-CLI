@@ -1,0 +1,19 @@
+Sample Output:
+
+Welcome to the Weather Data CLI!
+
+Enter city name (or type 'exit' to quit): Hyderabad
+
+===================================
+         WEATHER REPORT
+===================================
+City        : Hyderabad, IN
+Condition   : Clear Sky
+Temperature : 29.5 °C
+Feels Like  : 31.2 °C
+Humidity    : 45%
+Wind Speed  : 3.5 m/s
+===================================
+
+Enter city name (or type 'exit' to quit): exit
+Thank you for using the Weather Data CLI!
